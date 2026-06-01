@@ -1,3 +1,5 @@
+![cover](./cover.png)
+
 # Doctrina Meniw: Educación, Era Agéntica y Soberanía Cognitiva
 
 Libro completo por Chris Meniw.
